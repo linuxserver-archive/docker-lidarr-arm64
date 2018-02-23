@@ -29,6 +29,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another image release featu
 
 # lsioarmhf/lidarr-aarch64
 [![](https://images.microbadger.com/badges/version/lsioarmhf/lidarr-aarch64.svg)](https://microbadger.com/images/lsioarmhf/lidarr-aarch64 "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/lidarr-aarch64.svg)](http://microbadger.com/images/lsioarmhf/lidarr-aarch64 "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/lidarr-aarch64.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/lidarr-aarch64.svg)][hub][![Build Status](https://ci.linuxserver.io/buildStatus/icon?job=Docker-Builders/arm64/arm64-lidarr)](https://ci.linuxserver.io/job/Docker-Builders/job/arm64/job/arm64-lidarr/)
+
 Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new tracks from your favorite artists and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
 
 [![lidarr](https://github.com/lidarr/Lidarr/blob/develop/Logo/400.png)][appurl]
